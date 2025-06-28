@@ -32,4 +32,4 @@ Features
 How to launch the project:
   1. Run in terminal "npm i"
   2. Then run "npm start"
-  3. Here you go, you have project ready to play in browser
+  3. Here you go, you have project ready to use in browser
