@@ -28,3 +28,8 @@ Features
   > Dynamic Filters – See All, Active, or Completed todos
   > Live Counter – Shows remaining tasks
   > Responsive Design – Clean layout on all screen sizes
+
+How to launch the project:
+  1. Run in terminal "npm i"
+  2. Then run "npm start"
+  3. Here you go, you have project ready to play in browser
