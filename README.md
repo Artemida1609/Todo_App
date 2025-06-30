@@ -2,7 +2,7 @@ Todo App – Minimalist Task Management Application
 This project provides a simple and user-friendly interface to manage daily tasks. Users can add, filter, and track their todos in a clean, responsive layout. The app supports task filtering by status (All / Active / Completed), visual feedback for task state, and automatically updates the task counter.
 It serves as a practical demonstration of working with RESTful APIs, conditional rendering, and asynchronous operations in a modern frontend stack.
 
-Live DEMO: Expierience the live website: https://artemida1609.github.io/Todo_App/
+Live DEMO: Expierience the live website: https://Artemida1609.github.io/Todo_App/
 
 Technologies Used: Core
   > Frontend:
